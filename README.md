@@ -11,4 +11,4 @@ Simply, open the notebook in colab, upload your image and enjoy!
 
 ![Demo](demo-gradcam-playground.gif)
 
-![output](output.png)
+![output_img](output.png)
