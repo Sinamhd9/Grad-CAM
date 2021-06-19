@@ -10,5 +10,5 @@ Simply, upload your image and enjoy!
 
 [Reference](https://arxiv.org/pdf/1610.02391.pdf)
 
-[Demo](demo-gradcam-playground.gif)
+![Demo](demo-gradcam-playground.gif)
 
