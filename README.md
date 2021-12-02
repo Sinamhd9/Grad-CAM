@@ -1,5 +1,5 @@
 # Grad-CAM Playground
-
+A playground implementation of GradCAM algorithm.
 
 ## Overview
 
